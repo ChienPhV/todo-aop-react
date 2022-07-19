@@ -28,7 +28,7 @@ function Form(props) {
           className="todoinput"
           name="text"
           autoComplete="off"
-          placeholder="New todo..."
+          placeholder="Enter your task // double click on task to edit"
           value={name}
           onChange={handleChange}
         />}
