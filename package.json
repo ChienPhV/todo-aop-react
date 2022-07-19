@@ -1,7 +1,7 @@
 {
   "name": "todo-app-react",
   "version": "0.1.0",
-  "homepage": "https://github.com/ChienPhV/todo-app-react.git",
+  "homepage": "https://ChienPhV.github.io/todo-app-react/", 
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.9.3",
