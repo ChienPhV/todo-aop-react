@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ChienPhV/todo-app-react.git/static/css/main.ad689ebb.css",
+    "main.js": "/ChienPhV/todo-app-react.git/static/js/main.45c6777a.js",
+    "static/js/787.678a5ca4.chunk.js": "/ChienPhV/todo-app-react.git/static/js/787.678a5ca4.chunk.js",
+    "index.html": "/ChienPhV/todo-app-react.git/index.html",
+    "main.ad689ebb.css.map": "/ChienPhV/todo-app-react.git/static/css/main.ad689ebb.css.map",
+    "main.45c6777a.js.map": "/ChienPhV/todo-app-react.git/static/js/main.45c6777a.js.map",
+    "787.678a5ca4.chunk.js.map": "/ChienPhV/todo-app-react.git/static/js/787.678a5ca4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ad689ebb.css",
+    "static/js/main.45c6777a.js"
+  ]
+}
